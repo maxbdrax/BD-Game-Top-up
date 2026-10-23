@@ -1,0 +1,6 @@
+{
+  "name": "BD Gaming TopUp",
+  "description": "Professional Free Fire Diamond Top-Up & Gaming ID Marketplace in Bangladesh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
